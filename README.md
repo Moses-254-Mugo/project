@@ -10,7 +10,12 @@ or a feral cat; the latter ranges freely and avoids human contact.Domestic cats
  * HTML
  * CSS
 
-
+## Table
+| Breed | Abyssinial cat       | Birman          | Bengal                 |
+|-------|----------------------|-----------------|------------------------|
+| Size  | Small to medium      | Medium to large | Medium to large        |
+| Coat  | Medium               | Medium          | Medium to long         |
+| color | Ruddy, red blue,fawn | Bright orange   | Seal point, blue point |
 
 
 
