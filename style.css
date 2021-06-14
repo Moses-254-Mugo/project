@@ -1,0 +1,24 @@
+body{
+    background-color:#ccc ;
+    font-family: open sans-serif;
+    font-size: 22px;
+    padding: 10px;
+  
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px ;
+    margin: 0 auto;
+
+
+}
+th, td{
+    padding: 5px;
+    text-align: left;
+}
+th{
+    background-color: green;
+    color: #fff;
+}
